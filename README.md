@@ -1,20 +1,73 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Ritesh Raghav Portfolio
 
-# Run and deploy your AI Studio app
+A modern and responsive personal portfolio website showcasing my skills, projects, achievements, and professional journey.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/56a20b50-ee0b-4d70-bcc4-5f7e559f4f53
+- Responsive design
+- Modern UI/UX
+- Projects showcase
+- Skills section
+- Contact information
+- Fast performance
 
-## Run Locally
+## 🛠️ Technologies Used
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- CSS
 
+## 📂 Project Structure
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+src/
+├── components/
+├── assets/
+├── App.tsx
+├── main.tsx
+```
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Rritesh005/ritesh-raghav-portfolio.git
+```
+
+Navigate to the project:
+
+```bash
+cd ritesh-raghav-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## 🌐 Live Demo
+
+Add your deployed website link here.
+
+Example:
+
+https://your-portfolio-url.vercel.app
+
+## 👤 Author
+
+**Ritesh Raghav**
+
+GitHub: https://github.com/Rritesh005
+
+---
+
+⭐ If you like this project, consider giving it a star.
