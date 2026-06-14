@@ -56,13 +56,6 @@ Run the development server:
 npm run dev
 ```
 
-## 🌐 Live Demo
-
-Add your deployed website link here.
-
-Example:
-
-https://your-portfolio-url.vercel.app
 
 ## 👤 Author
 
