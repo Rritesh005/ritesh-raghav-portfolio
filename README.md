@@ -1,7 +1,9 @@
 # Ritesh Raghav Portfolio
 
 A modern and responsive personal portfolio website showcasing my skills, projects, achievements, and professional journey.
+## Portfolio Preview
 
+![Portfolio Homepage](screenshots/homepage.png)
 ## 🚀 Features
 
 - Responsive design
